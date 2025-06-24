@@ -1,6 +1,5 @@
 .DS_Store
 key/
-key/
 MapleAnalysis/MapleAnalysis/keys/
-MapleAnalysis/MapleAnalysis/keys/
+MapleAnalysis/airflow/logs
 logs/
