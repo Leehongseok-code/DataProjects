@@ -1,0 +1,28 @@
+[2024-12-16T09:00:30.563+0900] {processor.py:186} INFO - Started process (PID=50125) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-12-16T09:00:30.563+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-12-16T09:00:30.564+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:00:30.564+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-12-16T09:00:30.567+0900] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-12-16T09:00:30.596+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:00:30.596+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:00:30.601+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:00:30.601+0900] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-12-15T20:00:00+00:00, run_after=2024-12-16T00:00:00+00:00
+[2024-12-16T09:00:30.607+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.045 seconds
+[2024-12-16T09:03:03.266+0900] {processor.py:186} INFO - Started process (PID=50705) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-12-16T09:03:03.266+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-12-16T09:03:03.267+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:03:03.267+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-12-16T09:03:03.270+0900] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-12-16T09:03:03.301+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:03:03.301+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:03:03.306+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:03:03.306+0900] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-12-15T20:00:00+00:00, run_after=2024-12-16T00:00:00+00:00
+[2024-12-16T09:03:03.313+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.047 seconds
+[2024-12-16T09:05:43.768+0900] {processor.py:186} INFO - Started process (PID=51155) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-12-16T09:05:43.770+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-12-16T09:05:43.770+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:05:43.770+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-12-16T09:05:43.772+0900] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-12-16T09:05:43.802+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:05:43.802+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:05:43.807+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:05:43.807+0900] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-12-15T20:00:00+00:00, run_after=2024-12-16T00:00:00+00:00
+[2024-12-16T09:05:43.813+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.045 seconds
+[2024-12-16T09:08:19.806+0900] {processor.py:186} INFO - Started process (PID=51579) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-12-16T09:08:19.807+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-12-16T09:08:19.807+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:08:19.807+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-12-16T09:08:19.810+0900] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2024-12-16T09:08:19.839+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:08:19.839+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:08:19.845+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:08:19.845+0900] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-12-15T20:00:00+00:00, run_after=2024-12-16T00:00:00+00:00
+[2024-12-16T09:08:19.851+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.046 seconds

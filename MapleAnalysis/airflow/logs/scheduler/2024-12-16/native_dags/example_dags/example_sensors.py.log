@@ -1,0 +1,21 @@
+[2024-12-16T09:01:35.411+0900] {processor.py:186} INFO - Started process (PID=50333) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2024-12-16T09:01:35.411+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-12-16T09:01:35.411+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:01:35.411+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2024-12-16T09:01:35.418+0900] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2024-12-16T09:01:35.686+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:01:35.685+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:01:35.690+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:01:35.690+0900] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-12-16T09:01:35.696+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.286 seconds
+[2024-12-16T09:04:10.470+0900] {processor.py:186} INFO - Started process (PID=50895) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2024-12-16T09:04:10.471+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-12-16T09:04:10.471+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:04:10.471+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2024-12-16T09:04:10.477+0900] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2024-12-16T09:04:10.778+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:04:10.778+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:04:10.783+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:04:10.783+0900] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-12-16T09:04:10.789+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.319 seconds
+[2024-12-16T09:06:49.290+0900] {processor.py:186} INFO - Started process (PID=51336) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2024-12-16T09:06:49.291+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-12-16T09:06:49.291+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:06:49.291+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2024-12-16T09:06:49.297+0900] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2024-12-16T09:06:49.583+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:06:49.583+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:06:49.587+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:06:49.587+0900] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-12-16T09:06:49.594+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.305 seconds

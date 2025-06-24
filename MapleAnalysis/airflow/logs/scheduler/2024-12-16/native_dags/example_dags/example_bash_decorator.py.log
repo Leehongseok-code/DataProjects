@@ -1,0 +1,21 @@
+[2024-12-16T09:02:04.055+0900] {processor.py:186} INFO - Started process (PID=50505) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-12-16T09:02:04.056+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2024-12-16T09:02:04.056+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:02:04.056+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-12-16T09:02:04.071+0900] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-12-16T09:02:04.167+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:02:04.166+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:02:04.170+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:02:04.169+0900] {dag.py:4180} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2024-12-16T09:02:04.175+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py took 0.121 seconds
+[2024-12-16T09:04:38.685+0900] {processor.py:186} INFO - Started process (PID=50973) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-12-16T09:04:38.687+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2024-12-16T09:04:38.687+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:04:38.687+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-12-16T09:04:38.701+0900] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-12-16T09:04:38.793+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:04:38.793+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:04:38.796+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:04:38.796+0900] {dag.py:4180} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2024-12-16T09:04:38.801+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py took 0.117 seconds
+[2024-12-16T09:07:17.425+0900] {processor.py:186} INFO - Started process (PID=51408) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-12-16T09:07:17.426+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2024-12-16T09:07:17.427+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:07:17.427+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-12-16T09:07:17.442+0900] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-12-16T09:07:17.538+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:07:17.537+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:07:17.541+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:07:17.540+0900] {dag.py:4180} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2024-12-16T09:07:17.546+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py took 0.122 seconds

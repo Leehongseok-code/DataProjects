@@ -1,0 +1,49 @@
+[2024-12-16T09:00:06.510+0900] {processor.py:186} INFO - Started process (PID=50057) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-16T09:00:06.510+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-16T09:00:06.510+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:00:06.510+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-16T09:00:06.515+0900] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-16T09:00:06.545+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:00:06.544+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:00:06.548+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:00:06.548+0900] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-16T09:00:06.553+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.045 seconds
+[2024-12-16T09:01:25.452+0900] {processor.py:186} INFO - Started process (PID=50306) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-16T09:01:25.453+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-16T09:01:25.453+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:01:25.453+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-16T09:01:25.456+0900] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-16T09:01:25.486+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:01:25.486+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:01:25.490+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:01:25.490+0900] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-16T09:01:25.495+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.044 seconds
+[2024-12-16T09:02:41.320+0900] {processor.py:186} INFO - Started process (PID=50637) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-16T09:02:41.321+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-16T09:02:41.321+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:02:41.321+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-16T09:02:41.325+0900] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-16T09:02:41.355+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:02:41.355+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:02:41.359+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:02:41.359+0900] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-16T09:02:41.365+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.046 seconds
+[2024-12-16T09:03:57.090+0900] {processor.py:186} INFO - Started process (PID=50860) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-16T09:03:57.091+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-16T09:03:57.092+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:03:57.092+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-16T09:03:57.095+0900] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-16T09:03:57.125+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:03:57.124+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:03:57.128+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:03:57.128+0900] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-16T09:03:57.134+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.044 seconds
+[2024-12-16T09:05:20.211+0900] {processor.py:186} INFO - Started process (PID=51093) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-16T09:05:20.212+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-16T09:05:20.212+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:05:20.212+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-16T09:05:20.216+0900] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-16T09:05:20.245+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:05:20.245+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:05:20.248+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:05:20.248+0900] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-16T09:05:20.254+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.044 seconds
+[2024-12-16T09:06:37.771+0900] {processor.py:186} INFO - Started process (PID=51306) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-16T09:06:37.772+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-16T09:06:37.773+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:06:37.773+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-16T09:06:37.776+0900] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-16T09:06:37.806+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:06:37.806+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:06:37.809+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:06:37.809+0900] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-16T09:06:37.815+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.045 seconds
+[2024-12-16T09:07:54.804+0900] {processor.py:186} INFO - Started process (PID=51512) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-16T09:07:54.805+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-16T09:07:54.806+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:07:54.806+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-16T09:07:54.809+0900] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-16T09:07:54.839+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:07:54.839+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:07:54.842+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:07:54.842+0900] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-12-16T09:07:54.848+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.044 seconds

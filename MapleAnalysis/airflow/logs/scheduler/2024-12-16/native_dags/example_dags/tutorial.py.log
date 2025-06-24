@@ -1,0 +1,42 @@
+[2024-12-16T09:01:10.352+0900] {processor.py:186} INFO - Started process (PID=50264) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-12-16T09:01:10.352+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-16T09:01:10.353+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:01:10.353+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-12-16T09:01:10.356+0900] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-12-16T09:01:10.385+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:01:10.385+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:01:10.390+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:01:10.390+0900] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-15T00:00:00+00:00, run_after=2024-12-16T00:00:00+00:00
+[2024-12-16T09:01:10.397+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.045 seconds
+[2024-12-16T09:02:27.309+0900] {processor.py:186} INFO - Started process (PID=50598) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-12-16T09:02:27.309+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-16T09:02:27.310+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:02:27.310+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-12-16T09:02:27.313+0900] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-12-16T09:02:27.344+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:02:27.344+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:02:27.349+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:02:27.349+0900] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-15T00:00:00+00:00, run_after=2024-12-16T00:00:00+00:00
+[2024-12-16T09:02:27.356+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.048 seconds
+[2024-12-16T09:03:42.116+0900] {processor.py:186} INFO - Started process (PID=50810) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-12-16T09:03:42.117+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-16T09:03:42.117+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:03:42.117+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-12-16T09:03:42.120+0900] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-12-16T09:03:42.149+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:03:42.149+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:03:42.154+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:03:42.154+0900] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-15T00:00:00+00:00, run_after=2024-12-16T00:00:00+00:00
+[2024-12-16T09:03:42.161+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.046 seconds
+[2024-12-16T09:05:04.172+0900] {processor.py:186} INFO - Started process (PID=51052) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-12-16T09:05:04.172+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-16T09:05:04.173+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:05:04.173+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-12-16T09:05:04.176+0900] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-12-16T09:05:04.206+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:05:04.206+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:05:04.211+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:05:04.211+0900] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-15T00:00:00+00:00, run_after=2024-12-16T00:00:00+00:00
+[2024-12-16T09:05:04.217+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.047 seconds
+[2024-12-16T09:06:22.796+0900] {processor.py:186} INFO - Started process (PID=51268) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-12-16T09:06:22.797+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-16T09:06:22.798+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:06:22.798+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-12-16T09:06:22.801+0900] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-12-16T09:06:22.830+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:06:22.830+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:06:22.836+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:06:22.836+0900] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-15T00:00:00+00:00, run_after=2024-12-16T00:00:00+00:00
+[2024-12-16T09:06:22.842+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.047 seconds
+[2024-12-16T09:07:38.694+0900] {processor.py:186} INFO - Started process (PID=51471) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-12-16T09:07:38.695+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-16T09:07:38.696+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:07:38.696+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-12-16T09:07:38.699+0900] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2024-12-16T09:07:38.728+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:07:38.728+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:07:38.733+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:07:38.733+0900] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-12-15T00:00:00+00:00, run_after=2024-12-16T00:00:00+00:00
+[2024-12-16T09:07:38.739+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.045 seconds

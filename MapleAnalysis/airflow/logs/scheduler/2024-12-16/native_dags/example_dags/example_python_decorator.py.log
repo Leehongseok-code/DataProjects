@@ -1,0 +1,24 @@
+[2024-12-16T09:01:41.644+0900] {processor.py:186} INFO - Started process (PID=50356) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-16T09:01:41.644+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-16T09:01:41.645+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:01:41.645+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-16T09:01:41.658+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:01:41.658+0900] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-16T09:01:41.659+0900] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-16T09:01:41.690+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:01:41.690+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:01:41.729+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:01:41.729+0900] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-16T09:01:41.735+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py took 0.092 seconds
+[2024-12-16T09:04:16.733+0900] {processor.py:186} INFO - Started process (PID=50910) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-16T09:04:16.733+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-16T09:04:16.733+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:04:16.733+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-16T09:04:16.745+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:04:16.745+0900] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-16T09:04:16.746+0900] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-16T09:04:16.774+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:04:16.774+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:04:16.810+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:04:16.810+0900] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-16T09:04:16.817+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py took 0.085 seconds
+[2024-12-16T09:06:55.615+0900] {processor.py:186} INFO - Started process (PID=51352) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-16T09:06:55.615+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-12-16T09:06:55.616+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:06:55.616+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-16T09:06:55.629+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:06:55.629+0900] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-16T09:06:55.629+0900] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-12-16T09:06:55.659+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:06:55.659+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:06:55.695+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:06:55.695+0900] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-12-16T09:06:55.701+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py took 0.087 seconds

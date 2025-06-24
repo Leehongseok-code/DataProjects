@@ -1,0 +1,5 @@
+[2024-12-15T04:14:51.626+0900] {processor.py:157} INFO - Started process (PID=59814) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-12-15T04:14:51.626+0900] {processor.py:829} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-12-15T04:14:51.626+0900] {logging_mixin.py:151} INFO - [2024-12-15T04:14:51.626+0900] {dagbag.py:539} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-12-15T04:14:51.626+0900] {processor.py:841} WARNING - No viable dags retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-12-15T04:14:51.671+0900] {processor.py:179} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.045 seconds

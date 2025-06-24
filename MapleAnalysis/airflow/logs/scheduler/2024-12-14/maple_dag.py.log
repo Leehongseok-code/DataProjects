@@ -1,0 +1,14 @@
+[2024-12-15T04:14:45.497+0900] {processor.py:157} INFO - Started process (PID=59801) to work on /Users/hongseoklee/airflow/dags/maple_dag.py
+[2024-12-15T04:14:45.497+0900] {processor.py:829} INFO - Processing file /Users/hongseoklee/airflow/dags/maple_dag.py for tasks to queue
+[2024-12-15T04:14:45.497+0900] {logging_mixin.py:151} INFO - [2024-12-15T04:14:45.497+0900] {dagbag.py:539} INFO - Filling up the DagBag from /Users/hongseoklee/airflow/dags/maple_dag.py
+[2024-12-15T04:14:45.517+0900] {logging_mixin.py:151} INFO - [2024-12-15T04:14:45.516+0900] {dagbag.py:347} ERROR - Failed to import: /Users/hongseoklee/airflow/dags/maple_dag.py
+Traceback (most recent call last):
+  File "/Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/hongseoklee/airflow/dags/maple_dag.py", line 10, in <module>
+    from codes.collect_rank_data import main
+ModuleNotFoundError: No module named 'codes'
+[2024-12-15T04:14:45.517+0900] {processor.py:841} WARNING - No viable dags retrieved from /Users/hongseoklee/airflow/dags/maple_dag.py
+[2024-12-15T04:14:45.549+0900] {processor.py:179} INFO - Processing /Users/hongseoklee/airflow/dags/maple_dag.py took 0.053 seconds

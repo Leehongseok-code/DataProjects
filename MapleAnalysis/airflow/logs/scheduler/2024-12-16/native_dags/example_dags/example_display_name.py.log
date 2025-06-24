@@ -1,0 +1,21 @@
+[2024-12-16T09:01:51.234+0900] {processor.py:186} INFO - Started process (PID=50383) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2024-12-16T09:01:51.234+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-12-16T09:01:51.235+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:01:51.235+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2024-12-16T09:01:51.247+0900] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2024-12-16T09:01:51.275+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:01:51.275+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:01:51.309+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:01:51.309+0900] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-12-16T09:01:51.316+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.083 seconds
+[2024-12-16T09:04:26.060+0900] {processor.py:186} INFO - Started process (PID=50937) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2024-12-16T09:04:26.061+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-12-16T09:04:26.061+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:04:26.061+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2024-12-16T09:04:26.073+0900] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2024-12-16T09:04:26.102+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:04:26.102+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:04:26.137+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:04:26.137+0900] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-12-16T09:04:26.144+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.085 seconds
+[2024-12-16T09:07:05.534+0900] {processor.py:186} INFO - Started process (PID=51377) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2024-12-16T09:07:05.535+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-12-16T09:07:05.535+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:07:05.535+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2024-12-16T09:07:05.547+0900] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2024-12-16T09:07:05.576+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:07:05.576+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:07:05.615+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:07:05.615+0900] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-12-16T09:07:05.621+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.088 seconds

@@ -1,0 +1,21 @@
+[2024-12-16T09:01:37.641+0900] {processor.py:186} INFO - Started process (PID=50341) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-12-16T09:01:37.641+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-12-16T09:01:37.641+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:01:37.641+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-12-16T09:01:37.654+0900] {processor.py:925} INFO - DAG(s) 'example_sensor_decorator' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-12-16T09:01:37.969+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:01:37.968+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:01:37.972+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:01:37.972+0900] {dag.py:4180} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-12-16T09:01:37.978+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.339 seconds
+[2024-12-16T09:04:12.732+0900] {processor.py:186} INFO - Started process (PID=50902) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-12-16T09:04:12.732+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-12-16T09:04:12.733+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:04:12.733+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-12-16T09:04:12.745+0900] {processor.py:925} INFO - DAG(s) 'example_sensor_decorator' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-12-16T09:04:13.012+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:04:13.011+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:04:13.016+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:04:13.016+0900] {dag.py:4180} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-12-16T09:04:13.031+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.300 seconds
+[2024-12-16T09:06:51.318+0900] {processor.py:186} INFO - Started process (PID=51341) to work on /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-12-16T09:06:51.319+0900] {processor.py:914} INFO - Processing file /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-12-16T09:06:51.320+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:06:51.319+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-12-16T09:06:51.331+0900] {processor.py:925} INFO - DAG(s) 'example_sensor_decorator' retrieved from /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-12-16T09:06:51.634+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:06:51.633+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T09:06:51.638+0900] {logging_mixin.py:190} INFO - [2024-12-16T09:06:51.637+0900] {dag.py:4180} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-12-16T09:06:51.644+0900] {processor.py:208} INFO - Processing /Users/hongseoklee/miniconda3/envs/aivenv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.327 seconds
